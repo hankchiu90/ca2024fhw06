@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 01ed50debf5b1d5439e4fca891ae38f7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Animation
+    second: {fileID: 5685697100008369186, guid: 01ed50debf5b1d5439e4fca891ae38f7, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aecd2106718f2444db3ca21345da2cef, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
